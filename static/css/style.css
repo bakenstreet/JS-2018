@@ -29,7 +29,18 @@ body, html {
     background-size: cover;
 }
 
+.bg-back-to-school-183533_1920 {
+    /* The image used */
+    background-image: url("back-to-school-183533_1920.jpg");
 
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 .boxed {
     border-radius: 3px;
